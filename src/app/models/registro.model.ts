@@ -26,7 +26,7 @@ export class Registro {
                 this.icon = 'globe';
                 break;
 
-            case 'gep:':
+            case 'geo:':
                 this.type = 'geo';
                 this.icon = 'pin';
                 break;
